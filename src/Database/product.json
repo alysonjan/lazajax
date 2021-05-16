@@ -1,0 +1,44 @@
+[
+    {
+    "id":1,
+    "title":"Nike Presto 3",
+    "description":"Combination of upper materials for durability and comfort Mesh tongue enhances breathability",
+    "price": 7000,
+    "imageurl":"./images/p1.jpeg"
+},
+{
+    "id":2,
+    "title":"Jordan 1 White",
+    "description":"Its lightweight and padded design helps keep you moving as you push through your miles.",
+    "price": 8000,
+    "imageurl":"./images/p2.jpeg"
+},
+{
+    "id":3,
+    "title":"Nike Revolution 5 ",
+    "description":"The Nike Revolution 5 cushions your stride with soft foam to keep you running in comfort.",
+    "price": 3500,
+    "imageurl":"./images/p3.jpeg"
+},
+{
+    "id":4,
+    "title":"Canon Camera",
+    "description":"Make new memories with my Canon EOS 600D SLR camera!",
+    "price": 28500,
+    "imageurl":"./images/p4.jpeg"
+},
+{
+    "id":5,
+    "title":"Nikon Camera",
+    "description":"The lowest price of Nikon D3200 Kit is P29,688 at LazajaX",
+    "price": 29600,
+    "imageurl":"./images/p5.jpeg"
+},
+{
+    "id":6,
+    "title":"Fuji Film",
+    "description":"Fujifilm Instant Color Film “instax mini” (separately available)",
+    "price": 5299,
+    "imageurl":"./images/p6.jpeg"
+}
+]
